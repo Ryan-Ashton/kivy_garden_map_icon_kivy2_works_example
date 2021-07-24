@@ -1,0 +1,1 @@
+# kivy_garden_map_icon_kivy2_works_example
